@@ -179,15 +179,15 @@ int main()
     float baseFare = 1345.0;
 
     vector<Train> trainList = {
-    //    Train(12155, "Bhopal Pune Express", "Bhopal", "Pune", 52),
+        Train(12155, "Bhopal Pune Express", "Bhopal", "Pune", 52),
         Train(12001, "Habibganj New Delhi Shatabdi Express", "Bhopal", "Delhi", 52),
-     //   Train(12953, "August Kranti Rajdhani Express", "Bhopal", "Mumbai", 52),
-      //  Train(12920, "Malwa Express", "Bhopal", "Katra", 52),
-      //  Train(12485, "Nanda Devi Express", "Bhopal", "Dehradun", 52),
-    //    Train(12442, "Bilaspur Rajdhani Express", "Bhopal", "Delhi", 52),
-      //  Train(12627, "Karnataka Express", "Bhopal", "Bangalore", 52),
-       // Train(12782, "Swarna Jayanti Express", "Bhopal", "Mysuru", 52),
-       // Train(12437, "Rajdhani Express", "Bhopal", "Secunderabad", 52),
+        Train(12953, "August Kranti Rajdhani Express", "Bhopal", "Mumbai", 52),
+        Train(12920, "Malwa Express", "Bhopal", "Katra", 52),
+        Train(12485, "Nanda Devi Express", "Bhopal", "Dehradun", 52),
+        Train(12442, "Bilaspur Rajdhani Express", "Bhopal", "Delhi", 52),
+        Train(12627, "Karnataka Express", "Bhopal", "Bangalore", 52),
+        Train(12782, "Swarna Jayanti Express", "Bhopal", "Mysuru", 52),
+        Train(12437, "Rajdhani Express", "Bhopal", "Secunderabad", 52),
         Train(12457, "Delhi Kalka Shatabdi Express", "Delhi", "Kalka", 52),
     };
 
